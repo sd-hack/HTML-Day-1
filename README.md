@@ -168,3 +168,36 @@
     </div>
 </body>
 </html>
+
+# Solution
+Heading 1
+Heading 2
+Heading 3
+Heading 4
+Heading 5
+Heading 6
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti assumenda repellat ratione. Ipsum voluptas assumenda fugiat a atque necessitatibus recusandae culpa vel vero repudiandae asperiores voluptatum, alias expedita. Rerum optio amet ipsam nihil. Non molestiae tempore, ipsum veniam debitis optio vero? Recusandae voluptatum quibusdam laborum eligendi illum, suscipit commodi eius consectetur eaque numqum mollitia voluptatibus pariatur sit natus animi at sunt obcaecati harum laudantium! Eveniet quo deleniti omnis optio nam, inventore in. Nisi necessitatibus aspernatur consequatur maiores beatae ut, quasi eius illo corrupti exercitationem ducimus odit sit natus quos? Accusantium officia nihil dolores illum pariatur libero maiores ducimus qui, sint ipsum cupiditate distinctio?
+
+window Github
+Apple
+Mango
+Banana
+Apple
+Mango
+Banana
+HEllo There
+Hello There
+Hello There Hello There
+
+Name 
+
+Email 
+
+Mobile Number 
+ Passwword 
+ Gender  Male  Female Languages  Java  Python  Javascript 
+FE
+Address 
+
+
+Submit 
